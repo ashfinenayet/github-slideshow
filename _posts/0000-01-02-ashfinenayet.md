@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-lo
+TEN BANDS
 Use the left arrow to go back!
